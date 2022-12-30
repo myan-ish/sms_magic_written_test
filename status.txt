@@ -1,0 +1,20 @@
+Pending for 9199911111, not working time
+Email sent successfully to xmondr@gmail.com
+Pending SMS for 8544485444, Scheduled for another time.
+Email sent successfully to test3@email.in
+Success to send SMS to 8787776666, {
+    "status": "submitted",
+    "message": "queued",
+    "id": "c942e31f-f851-4e1e-be3f-ba7ac99be431"
+}
+
+Pending for 9199911111, not working time
+Email sent successfully to xmondr@gmail.com
+Pending SMS for 8544485444, Scheduled for another time.
+Email sent successfully to test3@email.in
+Success to send SMS to 8787776666, {
+    "status": "submitted",
+    "message": "queued",
+    "id": "a1aaa07f-5823-40ac-b834-7a6fb81ef09b"
+}
+
